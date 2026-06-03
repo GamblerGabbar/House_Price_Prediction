@@ -146,5 +146,3 @@ See the full license in the `LICENSE` file included in the repository.
 
 ---
 
-Happy Coding! 🚀
-
